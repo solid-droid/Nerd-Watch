@@ -6,7 +6,7 @@ Under Development
    In this project I aimed at creating 3 basic functionalities:
 1. Run-time programming capability.
 3. Inbuilt measuring tools for developers.
-4. Stacking Capability.
+4. Stacking Capability.  
  Why these functionalities:
   As a developer i like to program my developer boards on the go, so i developed a markup programing language and UI for touch based micro-controller programming .
   The system is equipped with an inbuilt multi-meter designed by me capable of measuring resistance, capacitance, inductance and voltage.
